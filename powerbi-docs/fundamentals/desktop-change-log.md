@@ -16,6 +16,12 @@ no-loc: [Copilot]
 This change log is for Power BI Desktop and lists new items and bug fixes for each released QFE build.
 
 See [What's new in Power BI](desktop-latest-update.md) for more information about new features. 
+
+## August 2025 QFE 1
+
+Bug fixes/improvements:
+
+- Fixed switching ImproveLsdl OpenAI from 3.5 to 4.1
  
 ## July 2025 QFE 3
 
